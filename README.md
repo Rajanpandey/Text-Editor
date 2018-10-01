@@ -2,7 +2,8 @@
 
 A fully functional feature rich text editor.
 
-Features:
+
+Features: 
 1. Responsive for all resolutions.
 2. Text formatting tools lie Bold, Italic, Underline, Strikethrough, Alignments, Justify, Lists, Font, Fontsize, Fontcolor, Create Link, Unlink, Insert Image, Indent and Outdent are added.
 3. Upon article submission, SEO friendly url is automatically generated on the basis of title name and is saved in the database.
